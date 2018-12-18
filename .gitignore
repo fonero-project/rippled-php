@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+.env.test
+.php_cs.cache
+backup
+composer.lock
+coverage
+tests/logs
+vendor/
